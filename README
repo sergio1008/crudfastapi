@@ -1,0 +1,2 @@
+activar el ambiente virtual .\env\Scripts\activate
+pip install -r requirements.txt
